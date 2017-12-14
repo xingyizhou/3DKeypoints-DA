@@ -9,14 +9,12 @@ metaDim = 5 + J
 
 eps = 1e-6
 imgSize = 224
+
 #Change data dir here
-#ShapeNet_dir = '..data/ShapeNet/'
-ShapeNet_dir = '/hdd/zxy/data/ShapeNet/'
-#ModelNet_dir = '..data/ModelNet/'
-ModelNet_dir = '/hdd/zxy/data/ModelNet/'
+ShapeNet_dir = '..data/ShapeNet/'
+ModelNet_dir = '..data/ModelNet/'
 DCNN_dir = '..data/3DCNN/'
-#Redwood_dir = '..data/Redwood_depth/'
-Redwood_dir = '/hdd/zxy/data/Redwood_depth/'
+Redwood_dir = '..data/Redwood_depth/'
 RedwoodRGB_dir = '..data/Redwood_RGB/'
 
 ModelNet_version = ''

@@ -2,7 +2,7 @@
 
 This repository is the PyTorch implementation for the network presented in:
 
-> Xingyi Zhou, Arjun, Karpur, Chuang Gan, Linjie Luo, Qixing Huang, 
+> Xingyi Zhou, Arjun Karpur, Chuang Gan, Linjie Luo, Qixing Huang, 
 > **Unsupervised Domain Adaptation for 3D Keypoint Prediction from a Single Depth Scan**
 > ([arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx))
 
