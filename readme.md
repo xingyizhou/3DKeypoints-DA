@@ -3,8 +3,8 @@
 This repository is the PyTorch implementation for the network presented in:
 
 > Xingyi Zhou, Arjun Karpur, Chuang Gan, Linjie Luo, Qixing Huang, 
-> **Unsupervised Domain Adaptation for 3D Keypoint Prediction from a Single Depth Scan**
-> ([arXiv:1712.05765](https://arxiv.org/abs/1712.05765))
+> **Unsupervised Domain Adaptation for 3D Keypoint Estimation via View Consistency**
+> ECCV 2018([arXiv:1712.05765](https://arxiv.org/abs/1712.05765))
 
 Contact: [zhouxy2017@gmail.com](mailto:zhouxy2017@gmail.com)
 
