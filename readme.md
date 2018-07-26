@@ -1,4 +1,4 @@
-# Unsupervised Domain Adaptation for 3D Keypoint Prediction from a Single Depth Scan
+# Unsupervised Domain Adaptation for 3D Keypoint Estimation via View Consistency
 
 This repository is the PyTorch implementation for the network presented in:
 
